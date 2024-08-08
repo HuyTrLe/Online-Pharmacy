@@ -1,0 +1,193 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PJ3-API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\service\\productspecification\\productspecificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\service\\productspecification\\productspecificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\repository\\productspecification\\productspecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\repository\\productspecification\\productspecificationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\service\\productimage\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\service\\productimage\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\controllers\\specificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\controllers\\specificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\huy95\\AppData\\Local\\SourceServer\\8c62b30060ec729e31dc25163c1e15b5d2d173a0b364e590ef467633589149cb\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\repository\\product\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|d:\\pj3-api\\pj3-api\\controllers\\productspecificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BA873-2F76-448B-A99B-FB020956B9F4}|pj3-api\\pj3-api.csproj|solutionrelative:pj3-api\\controllers\\productspecificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductSpecificationService.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Service\\ProductSpecification\\ProductSpecificationService.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Service\\ProductSpecification\\ProductSpecificationService.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Service\\ProductSpecification\\ProductSpecificationService.cs",
+              "RelativeToolTip": "pj3-api\\Service\\ProductSpecification\\ProductSpecificationService.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-26T02:55:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductSpecificationRepository.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Repository\\ProductSpecification\\ProductSpecificationRepository.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Repository\\ProductSpecification\\ProductSpecificationRepository.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Repository\\ProductSpecification\\ProductSpecificationRepository.cs",
+              "RelativeToolTip": "pj3-api\\Repository\\ProductSpecification\\ProductSpecificationRepository.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-26T02:55:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\appsettings.json",
+              "RelativeDocumentMoniker": "pj3-api\\appsettings.json",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\appsettings.json",
+              "RelativeToolTip": "pj3-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2023-10-26T02:54:48.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductImageService.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Service\\ProductImage\\ProductImageService.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Service\\ProductImage\\ProductImageService.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Service\\ProductImage\\ProductImageService.cs",
+              "RelativeToolTip": "pj3-api\\Service\\ProductImage\\ProductImageService.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA6wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-26T01:35:07.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExecutionContext.cs",
+              "DocumentMoniker": "C:\\Users\\huy95\\AppData\\Local\\SourceServer\\8c62b30060ec729e31dc25163c1e15b5d2d173a0b364e590ef467633589149cb\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "ToolTip": "C:\\Users\\huy95\\AppData\\Local\\SourceServer\\8c62b30060ec729e31dc25163c1e15b5d2d173a0b364e590ef467633589149cb\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\ExecutionContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-26T02:16:04.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "pj3-api\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T09:42:25.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Repository\\Product\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Repository\\Product\\ProductRepository.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Repository\\Product\\ProductRepository.cs",
+              "RelativeToolTip": "pj3-api\\Repository\\Product\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T09:42:25.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SpecificationController.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Controllers\\SpecificationController.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Controllers\\SpecificationController.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Controllers\\SpecificationController.cs",
+              "RelativeToolTip": "pj3-api\\Controllers\\SpecificationController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAYwDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T15:13:49.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Controllers\\ProductImageController.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "pj3-api\\Controllers\\ProductImageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T15:12:57.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductSpecificationController.cs",
+              "DocumentMoniker": "D:\\PJ3-API\\pj3-api\\Controllers\\ProductSpecificationController.cs",
+              "RelativeDocumentMoniker": "pj3-api\\Controllers\\ProductSpecificationController.cs",
+              "ToolTip": "D:\\PJ3-API\\pj3-api\\Controllers\\ProductSpecificationController.cs",
+              "RelativeToolTip": "pj3-api\\Controllers\\ProductSpecificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-10-25T15:12:48.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
